@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  Test5.5.cpp
+D:\Project 9\5.5\5.5\5.5.cpp(14,12): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\Project 9\5.5\5.5\5.5.cpp(19,12): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\Project 9\5.5\5.5\5.5.cpp(20): warning C4715: z: значение возвращается не при всех путях выполнения
+D:\Project 9\5.5\5.5\5.5.cpp(10): warning C4715: f: значение возвращается не при всех путях выполнения
+D:\Project 9\5.5\5.5\5.5.cpp(15): warning C4715: y: значение возвращается не при всех путях выполнения
+     Создается библиотека D:\Project 9\5.5\Debug\Test5.5.lib и объект D:\Project 9\5.5\Debug\Test5.5.exp
+  Test5.5.vcxproj -> D:\Project 9\5.5\Debug\Test5.5.dll
